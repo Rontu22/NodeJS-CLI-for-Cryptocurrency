@@ -21,8 +21,8 @@
 
 ## Screenshots
 
-![set api_key](https://github.com/Rontu22/NodeJS-CLI-for-Cryptocurrency/tree/master/screenshots/1.png)
+![set api_key](https://raw.github.com/Rontu22/NodeJS-CLI-for-Cryptocurrency/master/screenshots/1.png)
 
-![check price](https://github.com/Rontu22/NodeJS-CLI-for-Cryptocurrency/tree/master/screenshots/2.png)
+![check price](https://raw.github.com/Rontu22/NodeJS-CLI-for-Cryptocurrency/master/screenshots/2.png)
 
-![check price in EUR](https://github.com/Rontu22/NodeJS-CLI-for-Cryptocurrency/tree/master/screenshots/3.png)
+![check price in EUR](https://raw.github.com/Rontu22/NodeJS-CLI-for-Cryptocurrency/master/screenshots/3.png)
